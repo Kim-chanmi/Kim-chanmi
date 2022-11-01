@@ -24,8 +24,13 @@
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"></a>
 </p>
+<br><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-chanmi)](https://github.com/Kim-chanmi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-chanmi&layout=compact)](https://github.com/Kim-chanmi/github-readme-stats) <br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-chanmi&show_icons=true&theme=dracula) <br><br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKim-chanmi%2FKim-chanmi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FAD9D9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **Kim-chanmi/Kim-chanmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
