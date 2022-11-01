@@ -30,11 +30,13 @@
 ### :🙌: 방문자수
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKim-chanmi%2FKim-chanmi&count_bg=%23282A36&title_bg=%23DD6387&icon=&icon_color=%23F4DDDD&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <br>
 
+### :👍: Git-Hub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-chanmi&show_icons=true&theme=dracula)
+
 ### :✌️: 자주 쓰는 언어
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-chanmi&layout=compact&theme=dracula)](https://github.com/Kim-chanmi/github-readme-stats) 
 
-### :👍: Git-Hub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-chanmi&show_icons=true&theme=dracula) <br><br>
+
 
 <!--
 **Kim-chanmi/Kim-chanmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
